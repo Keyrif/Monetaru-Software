@@ -1,0 +1,11 @@
+body {
+  user-select: none; 
+  text-decoration: none;
+    font-family: 'Poppins', sans-serif !important;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+    background-color: #131b21;
+}
+
+SOON
